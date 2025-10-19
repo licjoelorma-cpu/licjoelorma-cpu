@@ -1,4 +1,5 @@
 # ¡Hola! Soy Joel Ortega Maldonado 👋
+![Banner Joel Ortega Maldonado](./banner.svg)
 
 ## 📊 Analista de Datos en formación
 
