@@ -18,8 +18,8 @@ Actualmente cursando el bootcamp de Análisis de Datos en TripleTen, donde desar
 - **Especialización**: Análisis de negocio, ROI/ROMI, optimización de inversiones
 
 ## 📫 Cómo contactarme
-- LinkedIn: https://www.linkedin.com/in/joel-ortega-maldonado/
-- Email: lic.joelorma@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-ortega-maldonado/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lic.joelorma@gmail.com)
 
 ## ⚡ Dato curioso
 Transformo datos en decisiones de negocio que generan valor real 📈
