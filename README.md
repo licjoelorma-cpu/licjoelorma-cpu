@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Joel Ortega Maldonado**
 
-![Banner Joel Ortega Maldonado](./banner.svg)
+
 
 > 💡 *Apasionado por convertir datos en conocimiento útil para decisiones estratégicas.*
 
