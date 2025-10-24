@@ -1,4 +1,6 @@
-# 👋 ¡Hola! Soy **Joel Ortega Maldonado**
+# ¡Hola! Soy Joel Ortega Maldonado 👋
+![Banner Joel Ortega Maldonado](https://raw.githubusercontent.com/joel-ortega-maldonado/joel-ortega-maldonado/main/banner.svg)
+
 
 
 
