@@ -1,23 +1,63 @@
-# ¡Hola! Soy Joel Ortega Maldonado 👋
+# Joel Ortega Maldonado
 
-> 💡 *Apasionado por convertir datos en conocimiento útil para decisiones estratégicas.*
+## Data Analyst
 
----
+Data Analyst focused on data analysis, statistical testing, and business decision-making using Python and SQL.
 
-## 📊 Analista de Datos en formación
-Actualmente cursando el **Bootcamp de Análisis de Datos en TripleTen**, donde desarrollo proyectos prácticos que demuestran mis habilidades en el análisis y visualización de datos.
-
----
-
-## 🔭 En qué estoy trabajando actualmente
-- **Proyecto 10 – Análisis de Datos (TripleTen)**
-- Perfeccionando mis habilidades en **análisis de negocio y optimización de ROI**
+Analista de Datos enfocado en análisis de datos, pruebas estadísticas y toma de decisiones de negocio utilizando Python y SQL.
 
 ---
 
-## 🌱 Proyectos destacados
-- **Proyecto 9 – Análisis de Negocio**  
-  Evaluación de fuentes de inversión con análisis de **ROMI y ROI**, identificando oportunidades de crecimiento del **+85%** y recomendaciones para optimización de presupuesto.
+## Skills
+
+- Python
+- SQL
+- Pandas
+- Data Visualization
+- A/B Testing
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Tableau
+- GitHub
+
+---
+
+## Featured Projects
+
+### A/B Testing Analysis
+Evaluation of conversion performance between two variants using statistical analysis and hypothesis testing.
+
+Evaluación del rendimiento de conversión entre dos variantes utilizando análisis estadístico y pruebas de hipótesis.
+
+Repository:
+https://github.com/licjoelorma-cpu/ab-testing-project
+
+---
+
+### Superstore Sales Analysis
+Exploratory analysis of sales and profitability to identify business insights and trends.
+
+Análisis exploratorio de ventas y rentabilidad para identificar insights y tendencias de negocio.
+
+Repository:
+https://github.com/licjoelorma-cpu/superstore-sales-analysis
+
+---
+
+### Inventory Audit Analysis
+Inventory validation and discrepancy detection using SQL and Python.
+
+Validación de inventarios y detección de discrepancias utilizando SQL y Python.
+
+Repository:
+https://github.com/licjoelorma-cpu/inventory-audit-analysis
+
+---
+
+## Contact
+
+LinkedIn:
+https://www.linkedin.com/in/joel-ortega-maldonado
 
 ---
 
